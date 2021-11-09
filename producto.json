@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "name": "Computador Portátil ASUS 14 Pulgadas X409MA",
+            "category": "tecnologia",
+            "image": "https://media.pasionmovil.com/2021/01/Mi-Notebook-14-IC-700x525.jpg",
+            "price": 1200000,
+            "countInStock": 10,
+            "brand": "Asus",
+            "rating": 4.5,
+            "numReviews": 10,
+            "description": "high quality product"
+        },
+        {
+            "id": 2,
+            "name": "Laptop Lenovo IdeaPad 14ADA05 platinum gray 14",
+            "category": "tecnologia",
+            "image": "https://d34vmoxq6ylzee.cloudfront.net/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/9/29B29LA-1_T1605903388.png",
+            "price": 1800000,
+            "countInStock": 10,
+            "brand": "HP",
+            "rating": 4.5,
+            "numReviews": 10,
+            "description": "muy buenpo"
+        },
+        {
+            "id": 3,
+            "name": "Nuevo Xiaomi Mi NoteBook 14",
+            "category": "tecnologia",
+            "image": "https://i.blogs.es/f32047/xiaomi-mi-notebook/840_560.jpg",
+            "price": 2000000,
+            "countInStock": 10,
+            "brand": "Xiaomi",
+            "rating": 4.5,
+            "numReviews": 10,
+            "description": "high quality product"
+        },
+        {
+            "id": 4,
+            "name": "Computador Portátil HP 16",
+            "category": "Shirts",
+            "image": "https://www.alkosto.com/medias/195122014230-001-750Wx750H?context=bWFzdGVyfGltYWdlc3wyMTA1ODB8aW1hZ2UvanBlZ3xpbWFnZXMvaGNmL2g3Ny85NjUzMTA0NTQxNzI2LmpwZ3w1NTk1ZjI5NDZiNjY0ZTQ3NTNkNjhmNmIzZDRlOWRhZTI1ZGY3ODIyMzI2YmI3OTQyMmU2YjRlMTVlMzVjNzNh",
+            "price": 4000000,
+            "countInStock": 10,
+            "brand": "HP",
+            "rating": 4.5,
+            "numReviews": 10,
+            "description": "high quality product"
+        },
+        {
+            "id": 5,
+            "name": "Computador Portatil 2 en 1 Bmax MaxBook Y13",
+            "category": "Shirts",
+            "image": "https://traguatan.com/3545-large_default/computador-portatil-bmax-maxbook-y13.jpg",
+            "price": 120,
+            "countInStock": 10,
+            "brand": "Apple",
+            "rating": 4.5,
+            "numReviews": 10,
+            "description": "high quality product"
+        }
+    ]
+}
